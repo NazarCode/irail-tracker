@@ -1,0 +1,4 @@
+/.vscode
+/__pycache__
+train_info.csv
+.DS_Store
